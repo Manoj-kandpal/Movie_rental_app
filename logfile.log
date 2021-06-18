@@ -1,0 +1,303 @@
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:18:30.100Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:18:30.182Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:18:45.803Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:18:45.898Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:19:45.178Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:20:38.054Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:20:57.354Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:20:57.420Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:22:03.246Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:22:03.306Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:23:32.074Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:23:32.122Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:23:45.410Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:23:45.460Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:25:45.272Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:25:45.360Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:25:50.103Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:25:50.143Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:26:04.797Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:26:04.849Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:27:19.836Z"}
+{"level":"info","message":"connected to database","timestamp":"2021-06-17T19:27:19.909Z"}
+{"level":"info","message":"Listening to port 7001...","timestamp":"2021-06-17T19:28:54.052Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-06-17T19:28:54.113Z"}
+{"level":"info","message":"Listening to port 7002...","timestamp":"2021-06-17T19:37:23.266Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T19:37:23.355Z"}
+{"level":"info","message":"Listening to port 3000...","timestamp":"2021-06-17T19:54:10.310Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T19:54:10.512Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T19:55:20.749Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T19:55:20.794Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T19:55:56.006Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T19:55:56.076Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T19:56:19.398Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T19:56:19.438Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T19:59:43.958Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T19:59:44.009Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:01:20.752Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:01:20.799Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:03:40.062Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:03:40.169Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:05:17.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:05:17.787Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:11:00.378Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:11:00.485Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:14:12.016Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:14:12.063Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/home/devil/nodeJS/vidly node project/project/node_modules/mongoose/lib/query.js:4361:21)\n    at model.Query.Object.<anonymous>.Query.then (/home/devil/nodeJS/vidly node project/project/node_modules/mongoose/lib/query.js:4455:15)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2021-06-17T20:14:12.162Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:17:35.388Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:17:35.499Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:18:27.287Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:18:27.338Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:19:38.179Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:19:38.225Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:19:53.842Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:19:53.888Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:20:46.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:20:46.724Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-17T20:22:14.941Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-17T20:22:15.012Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T04:09:04.199Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T04:09:04.249Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T04:09:21.875Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T04:09:21.930Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T04:10:00.181Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T04:10:00.226Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T04:54:33.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T04:54:33.914Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:01:53.567Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:01:53.616Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:03:14.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:03:14.182Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:05:09.953Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:05:10.004Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:07:57.118Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:07:57.178Z"}
+{"message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).","stack":"ValidationError: Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).\n    at model.Object.<anonymous>.Document.invalidate (/home/devil/nodeJS/vidly node project/project/node_modules/mongoose/lib/document.js:2704:32)\n    at /home/devil/nodeJS/vidly node project/project/node_modules/mongoose/lib/document.js:2524:17\n    at /home/devil/nodeJS/vidly node project/project/node_modules/mongoose/lib/schematype.js:1241:9\n    at process._tickCallback (internal/process/next_tick.js:61:11)","errors":{"name":{"name":"ValidatorError","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"1234"},"kind":"minlength","path":"name","value":"1234"}},"_message":"Genre validation failed","level":"error","timestamp":"2021-06-18T05:07:57.348Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:08:15.772Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:08:15.833Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:10:19.623Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:10:19.673Z"}
+{"message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/home/devil/nodeJS/vidly node project/project/node_modules/mongoose/lib/document.js:2704:32)\n    at /home/devil/nodeJS/vidly node project/project/node_modules/mongoose/lib/document.js:2524:17\n    at /home/devil/nodeJS/vidly node project/project/node_modules/mongoose/lib/schematype.js:1241:9\n    at process._tickCallback (internal/process/next_tick.js:61:11)","errors":{"name":{"name":"ValidatorError","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","properties":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","type":"maxlength","maxlength":50,"path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"kind":"maxlength","path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"_message":"Genre validation failed","level":"error","timestamp":"2021-06-18T05:10:19.839Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:11:04.033Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:11:04.110Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:15:38.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:15:38.167Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:21:27.857Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:21:27.909Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:47:44.563Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:47:44.701Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:49:23.887Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:49:23.977Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:50:18.333Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:50:18.520Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:50:24.218Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:50:24.306Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:58:10.976Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:58:11.153Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:58:32.169Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:58:32.267Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:58:51.018Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:58:51.067Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:59:46.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:59:46.642Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T05:59:58.370Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T05:59:58.421Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:01:16.162Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:01:16.241Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:01:24.573Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:01:24.646Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:03:14.074Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:03:14.145Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:06:01.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:06:01.884Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:06:21.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:06:21.160Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:06:48.890Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:06:48.994Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:06:49.055Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:06:49.218Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:06:58.016Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:06:58.101Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:06:58.180Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:06:58.208Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:07:10.718Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:07:10.771Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:07:10.780Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:07:10.917Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:07:21.616Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:07:21.696Z"}
+{"level":"info","message":"Listening to port 7003...","timestamp":"2021-06-18T06:07:21.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:07:21.910Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:07:40.567Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:07:40.640Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:07:40.840Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:07:41.074Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:08:04.939Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:08:05.026Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:08:05.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-06-18T06:08:05.212Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:08:47.141Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:08:47.199Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:08:47.286Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:08:47.360Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:10:23.884Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:10:23.897Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:10:23.965Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:10:24.078Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:10:33.838Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:10:33.885Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:10:33.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:10:34.053Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:10:58.997Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:10:59.087Z"}
+{"level":"info","message":"Listening to port 7004...","timestamp":"2021-06-18T06:10:59.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:10:59.372Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:11:17.115Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:11:17.169Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:11:17.304Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:11:17.458Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:12:02.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:12:03.068Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:12:03.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:12:03.322Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:12:40.337Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:12:40.407Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:12:40.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:12:40.879Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:13:47.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:13:47.554Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:13:48.112Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:13:48.324Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:14:30.031Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:14:30.151Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:14:30.359Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:14:30.498Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:14:39.625Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:14:39.710Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:14:39.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:14:39.871Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:14:47.782Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:14:47.862Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:14:47.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:14:48.027Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:15:48.210Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:15:48.318Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:15:48.338Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:15:48.454Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:16:32.358Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:16:32.416Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:16:32.764Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:16:32.865Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:17:50.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:17:50.435Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:17:50.595Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:17:50.675Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:17:56.464Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:17:56.531Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:17:56.526Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:17:56.642Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:19:06.098Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:19:06.218Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:19:06.241Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:19:06.299Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:19:16.405Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:19:16.478Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:19:16.504Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:19:16.591Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:01.388Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:01.472Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:01.665Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:01.729Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:08.007Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:08.099Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:08.234Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:08.313Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:14.411Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:14.511Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:14.577Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:15.109Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:26.353Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:26.361Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:26.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:26.421Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:37.073Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:37.126Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:37.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:37.603Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:45.952Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:45.981Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:46.019Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:46.106Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:53.620Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:53.670Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:20:53.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:20:53.982Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:23:31.066Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:23:31.201Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:23:31.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:23:31.392Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:29:05.066Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:29:05.072Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:29:05.221Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:29:05.319Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:29:34.678Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:29:34.757Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:29:34.701Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:29:34.815Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:30:40.152Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:30:40.219Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:30:40.322Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:30:40.442Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:30:48.818Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:30:48.829Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:30:48.867Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:30:48.900Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:31:45.918Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:31:46.014Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:31:46.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:31:46.261Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:33:32.444Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:33:32.717Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:33:32.967Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:33:33.334Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:33:41.099Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:33:41.214Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:33:41.581Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:33:41.648Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:33:56.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:33:56.857Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:33:57.774Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:33:57.828Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:34:36.418Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:34:36.516Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:34:36.831Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:34:36.902Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:35:28.394Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:35:28.489Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:35:28.992Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:35:29.073Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:36:21.757Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:36:21.754Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:36:21.833Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:36:21.899Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:37:07.517Z"}
+{"level":"info","message":"Listening to port 7005...","timestamp":"2021-06-18T06:37:07.558Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:37:07.625Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:37:07.645Z"}
+{"level":"info","message":"Listening to port 3001...","timestamp":"2021-06-18T06:37:54.925Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:37:55.032Z"}
+{"level":"info","message":"Listening to port 3001...","timestamp":"2021-06-18T06:37:55.155Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T06:37:55.310Z"}
+{"level":"info","message":"Listening to port 3001...","timestamp":"2021-06-18T08:25:26.161Z"}
+{"level":"info","message":"Listening to port 3001...","timestamp":"2021-06-18T08:25:26.250Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T08:25:26.469Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T08:25:26.543Z"}
+{"level":"info","message":"Listening to port 3000...","timestamp":"2021-06-18T08:26:03.690Z"}
+{"level":"info","message":"Listening to port 3000...","timestamp":"2021-06-18T08:26:03.694Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T08:26:03.783Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T08:26:03.908Z"}
+{"level":"info","message":"Listening to port 3007...","timestamp":"2021-06-18T08:26:14.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T08:26:14.549Z"}
+{"level":"info","message":"Listening to port 3007...","timestamp":"2021-06-18T08:26:14.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rental_app_tests...","timestamp":"2021-06-18T08:26:14.914Z"}
